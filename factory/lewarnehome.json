@@ -1,0 +1,9 @@
+{
+	"name": "lewarnehome",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f7a71e33-1577-425d-bbb0-3b26d52769c4",
+		"tenantId": "8e6f1579-5529-4117-bec0-725cc1b62d91"
+	}
+}
